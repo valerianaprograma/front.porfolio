@@ -5,7 +5,7 @@
   justify-content: flex-start;
   flex-direction: column;
   align-items: center;
-  color: #F2F2F2;
+  color: #4bc9ff;
 }
 .proyectos{
   width: 60%;
@@ -15,7 +15,7 @@
 .card{
   text-align: center;
   width: 30%;
-  border: solid #F2F2F2 1px;
+  border: solid #4bc9ff 1px;
   border-radius: 10px;
   padding: 10px;
 }
@@ -23,7 +23,7 @@
   width: 100%;
 }
 .card a, footer a {
-  color: white;
+  color: #4bc9ff;
 }
 
 .red-social{
@@ -38,7 +38,7 @@ footer{
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  color: #F2F2F2;
+  color: #4bc9ff;
   height: 250px;
 }
 .contacto{
