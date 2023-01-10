@@ -1,0 +1,70 @@
+img{
+  width: 300px;
+}
+header{
+  height: 65px;
+  background-color: #7b1fa2;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+}
+
+
+.dos{
+  background-color: #F2F2F2;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #303030;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.aptitudes{
+  width: 50%;
+}
+.tech-list{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+
+.tech{
+  height: 90px;
+}
+
+.tres{
+  background-color: #303030;
+  height: 600px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  color: #F2F2F2;
+}
+.proyectos{
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+.card{
+  text-align: center;
+  width: 30%;
+  border: solid #F2F2F2 1px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.card img{
+  width: 100%;
+}
+.card a, footer a {
+  color: white;
+}
+
+.red-social{
+  height: 60px;
+  background-color: #F2F2F2;
+  border-radius: 10px;
+}
